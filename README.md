@@ -30,34 +30,7 @@ The project showcases the complete Machine Learning workflow, including data pre
 * 🌙 Clean Dashboard Design
 * 📊 Beautiful Charts using Plotly
 * 💾 Saved Model & Preprocessing Pipeline
-* 🧠 Easy-to-Understand Prediction Results
-
----
-
-# 🖥️ Application Preview
-
-> **Add screenshots here**
-
-```
-images/
-│
-├── home.png
-├── prediction.png
-├── dashboard.png
-└── result.png
-```
-
-Example:
-
-```markdown
-![Home](images/home.png)
-
-![Prediction](images/prediction.png)
-
-![Dashboard](images/dashboard.png)
-```
-
----
+* 🧠 Easy-to-Understand Prediction Result
 
 # 🚀 Tech Stack
 
@@ -109,14 +82,6 @@ HeartDiseasePrediction/
 ├── columns.pkl
 ├── requirements.txt
 ├── README.md
-│
-├── images/
-│   ├── home.png
-│   ├── prediction.png
-│   ├── dashboard.png
-│   └── result.png
-│
-└── dataset/
 ```
 
 ---
